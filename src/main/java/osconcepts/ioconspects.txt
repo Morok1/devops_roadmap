@@ -1,1 +1,4 @@
 https://www.geeksforgeeks.org/operating-system-kernel-i-o-subsystem-i-o-system/ - io system
+
+
+https://www.tutorialspoint.com/operating_system/ - os aspects

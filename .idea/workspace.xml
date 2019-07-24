@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="723abb04-82b8-4fd2-882d-0bb536905e30" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/osconcepts/ioconspects.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devops_roadmap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/devops_roadmap.iml" afterDir="false" />
-    </list>
+    <list default="true" id="723abb04-82b8-4fd2-882d-0bb536905e30" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +20,11 @@
       </file>
       <file leaf-file-name="ioconspects.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/osconcepts/ioconspects.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="91" selection-start-column="91" selection-end-column="91" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -41,6 +40,13 @@
         <entry key="$PROJECT_DIR$/../../../../Учеба/Projects/springMVC/springmvc" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/lab" value="PREVIEW" />
       </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/osconcepts/ioconspects.txt" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -179,16 +185,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563993523401</updated>
-      <workItem from="1563993526549" duration="476000" />
+      <workItem from="1563993526549" duration="915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="476000" />
+    <option name="totallyTimeSpent" value="915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Palette" />
@@ -211,9 +216,9 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
@@ -237,7 +242,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/osconcepts/ioconspects.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="91" selection-start-column="91" selection-end-column="91" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
