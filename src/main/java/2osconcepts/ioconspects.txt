@@ -1,0 +1,17 @@
+OS
+https://www.geeksforgeeks.org/operating-system-kernel-i-o-subsystem-i-o-system/ - io system
+https://www.tutorialspoint.com/operating_system/ - os aspects
+
+https://eleccompengineering.files.wordpress.com/2014/07/structured_computer_organization_5th_edition_801_pages_2007_.pdf - book
+
+VIRTUALIZATIONgit
+
+MEMORY/STORAGE
+
+FILE SYSTEMS
+
+PROCESS MANAGEMENT
+
+THREAD CONCURRENCY
+
+SOCKETS
